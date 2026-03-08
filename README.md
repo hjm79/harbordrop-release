@@ -1,8 +1,4 @@
-<img width="128" height="128" alt="icon" src="https://github.com/user-attachments/assets/b365684a-0357-4d51-be79-4e952b2fb19d" />
-
 # HarborDrop
-
-**Website**: [vesslo.top/harbordrop](https://vesslo.top/harbordrop)
 
 **A powerful download manager for macOS** — accelerate downloads, capture web videos, and organize files automatically.
 
@@ -20,8 +16,13 @@
 - 🧩 **Browser Extension** — Seamless integration with Chrome, Edge, Brave, Arc, Firefox and more
 - ⚡ **Post-Download Actions** — Automate tasks like tagging, renaming, or moving files
 
- <img width="663" alt="UI" src="https://github.com/user-attachments/assets/b271149b-010d-4a54-a0fe-4a495a8f9a30" />
+---
 
+## 💰 Pricing
+
+- **$12.99** — one-time purchase (no subscription)
+- **14-day free trial** — full features, no credit card required
+- 👉 [Buy Now](https://vesslo.top/pricing)
 
 ---
 
@@ -52,7 +53,6 @@
 2. Unzip the downloaded file.
 3. Go to `chrome://extensions` in your browser.
 4. Enable **Developer mode** (top right toggle).
-<img width="663" alt="harbordrop-chrome-dev" src="https://github.com/user-attachments/assets/992dca73-711c-4d4e-882d-8e8fbbb1bfa7" />
 5. Click **Load unpacked** and select the unzipped folder.
 
 ---
@@ -73,10 +73,8 @@ Install the extension for your browser (see Download section above).
 1. Make sure HarborDrop is running.
 2. Click the extension icon in your browser toolbar.
 3. The popup should show **Connected** at the top.
-<img width="663" alt="dropharbor-media02_v2" src="https://github.com/user-attachments/assets/3f972539-7dc9-4019-bc85-be01a76564f8" />
 
 ---
-
 
 ## 📖 How to Download
 
@@ -103,7 +101,6 @@ Right-click any link on a web page → **Download with HarborDrop**.
 ### Video Overlay Button
 
 A download button appears automatically over videos on web pages.
-<img width="663" height="407" alt="dropharbor-mdown_v2" src="https://github.com/user-attachments/assets/f1b85e99-b0de-42be-a24e-530eaa90c88d" />
 
 ---
 
@@ -167,7 +164,7 @@ See [Releases](https://github.com/hjm79/harbordrop-release/releases) for the ful
 ## 📬 Feedback
 
 - **Website**: [vesslo.top/harbordrop](https://vesslo.top/harbordrop)
-- **Email**: me@hjm79.top
+- **Email**: support@vesslo.top
 
 ---
 
