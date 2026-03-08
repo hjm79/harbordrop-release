@@ -67,6 +67,8 @@ Install the extension for your browser (see Download section above).
 2. Click the extension icon in your browser toolbar.
 3. The popup should show **Connected** at the top.
 ![dropharbor-media02_v2](https://github.com/user-attachments/assets/3f972539-7dc9-4019-bc85-be01a76564f8)
+<img width="663" alt="dropharbor-media02_v2" src="https://github.com/user-attachments/assets/3f972539-7dc9-4019-bc85-be01a76564f8" />
+
 ---
 
 
