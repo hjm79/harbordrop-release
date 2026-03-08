@@ -1,4 +1,5 @@
-<img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/b365684a-0357-4d51-be79-4e952b2fb19d" />
+<img width="128" height="128" alt="icon" src="https://github.com/user-attachments/assets/b365684a-0357-4d51-be79-4e952b2fb19d" />
+
 # HarborDrop
 
 
