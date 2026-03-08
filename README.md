@@ -3,6 +3,7 @@
 # HarborDrop
 
 **Website**: [vesslo.top/harbordrop](https://vesslo.top/harbordrop)
+
 **A powerful download manager for macOS** — accelerate downloads, capture web videos, and organize files automatically.
 
 > **Requires**: macOS 14.0+
