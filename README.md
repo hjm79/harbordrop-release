@@ -46,6 +46,7 @@
 3. Go to `chrome://extensions` in your browser.
 4. Enable **Developer mode** (top right toggle).
 ![harbordrop-chrome-dev](https://github.com/user-attachments/assets/992dca73-711c-4d4e-882d-8e8fbbb1bfa7)
+<img width="663" alt="harbordrop-chrome-dev" src="https://github.com/user-attachments/assets/992dca73-711c-4d4e-882d-8e8fbbb1bfa7" />
 5. Click **Load unpacked** and select the unzipped folder.
 
 ---
@@ -66,7 +67,6 @@ Install the extension for your browser (see Download section above).
 1. Make sure HarborDrop is running.
 2. Click the extension icon in your browser toolbar.
 3. The popup should show **Connected** at the top.
-![dropharbor-media02_v2](https://github.com/user-attachments/assets/3f972539-7dc9-4019-bc85-be01a76564f8)
 <img width="663" alt="dropharbor-media02_v2" src="https://github.com/user-attachments/assets/3f972539-7dc9-4019-bc85-be01a76564f8" />
 
 ---
