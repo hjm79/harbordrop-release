@@ -1,4 +1,6 @@
+<img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/b365684a-0357-4d51-be79-4e952b2fb19d" />
 # HarborDrop
+
 
 **A powerful download manager for macOS** — accelerate downloads, capture web videos, and organize files automatically.
 
@@ -15,6 +17,9 @@
 - 🔗 **Site Grabber** — Collect all downloadable links from a page at once
 - 🧩 **Browser Extension** — Seamless integration with Chrome, Edge, Brave, Arc, Firefox and more
 - ⚡ **Post-Download Actions** — Automate tasks like tagging, renaming, or moving files
+
+ <img width="663" alt="UI" src="https://github.com/user-attachments/assets/b271149b-010d-4a54-a0fe-4a495a8f9a30" />
+
 
 ---
 
@@ -45,7 +50,6 @@
 2. Unzip the downloaded file.
 3. Go to `chrome://extensions` in your browser.
 4. Enable **Developer mode** (top right toggle).
-![harbordrop-chrome-dev](https://github.com/user-attachments/assets/992dca73-711c-4d4e-882d-8e8fbbb1bfa7)
 <img width="663" alt="harbordrop-chrome-dev" src="https://github.com/user-attachments/assets/992dca73-711c-4d4e-882d-8e8fbbb1bfa7" />
 5. Click **Load unpacked** and select the unzipped folder.
 
@@ -161,7 +165,7 @@ See [Releases](https://github.com/hjm79/harbordrop-release/releases) for the ful
 ## 📬 Feedback
 
 - **Website**: [vesslo.top/harbordrop](https://vesslo.top/harbordrop)
-- **Email**: support@vesslo.top
+- **Email**: me@hjm79.top
 
 ---
 
