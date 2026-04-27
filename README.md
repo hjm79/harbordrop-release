@@ -27,7 +27,7 @@
 
 ## 💰 Pricing
 
-- **$12.99** — one-time purchase (no subscription)
+- **$19.99** — one-time purchase (no subscription)
 - **14-day free trial** — full features, no credit card required
 - 👉 [Buy Now](https://vesslo.top/pricing)
 
