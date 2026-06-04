@@ -1,10 +1,12 @@
 <img width="128" height="128" alt="icon" src="https://github.com/user-attachments/assets/b365684a-0357-4d51-be79-4e952b2fb19d" />
 
-# HarborDrop
+# HarborDrop - Official macOS Download Manager Releases
 
-** Official Website**: [vesslo.top/harbordrop](https://vesslo.top/harbordrop)
+**Official product page**: [vesslo.top/harbordrop](https://vesslo.top/harbordrop)
 
-**A powerful download manager for macOS** — accelerate downloads, capture web videos, and organize files automatically.
+This repository hosts HarborDrop release downloads. The official product page, pricing, documentation, and support are maintained on [vesslo.top/harbordrop](https://vesslo.top/harbordrop).
+
+**A powerful download manager for macOS** — accelerate downloads, handle permitted non-DRM media workflows, and organize files automatically.
 
 > **Requires**: macOS 14.0+
 
@@ -13,7 +15,7 @@
 ## ✨ Features
 
 - 🚀 **Segmented Downloading** — Split files into multiple connections for faster speeds
-- 🎬 **Web Video Detection** — Automatically detect and download videos from web pages
+- 🎬 **Permitted Media Detection** — Detect downloadable non-DRM media resources from web pages
 - 📁 **Auto-Categorization** — Organize downloads by file type into designated folders
 - ⏰ **Scheduled Downloads** — Queue downloads for off-peak hours
 - 🔗 **Site Grabber** — Collect all downloadable links from a page at once
@@ -29,7 +31,7 @@
 
 - **$19.99** — one-time purchase (no subscription)
 - **14-day free trial** — full features, no credit card required
-- 👉 [Buy Now](https://vesslo.top/pricing)
+- 👉 [Buy HarborDrop](https://vesslo.top/pricing)
 
 ---
 
@@ -174,9 +176,10 @@ See [Releases](https://github.com/hjm79/harbordrop-release/releases) for the ful
 
 ## 📬 Feedback
 
-- **Website**: [vesslo.top/harbordrop](https://vesslo.top/harbordrop)
-- **Email**: me@hjm79.top
-- Official Website: https://vesslo.top/harbordrop
+- **Official product page**: [vesslo.top/harbordrop](https://vesslo.top/harbordrop)
+- **Documentation**: [vesslo.top/harbordrop/docs](https://vesslo.top/harbordrop/docs)
+- **Pricing**: [vesslo.top/pricing](https://vesslo.top/pricing)
+- **Email**: me@vesslo.top
 ---
 
 > ⚠️ Only download content you have permission to access. Respect copyright laws and each service's terms of use.
