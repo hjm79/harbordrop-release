@@ -1,12 +1,18 @@
-<img width="128" height="128" alt="icon" src="https://github.com/user-attachments/assets/b365684a-0357-4d51-be79-4e952b2fb19d" />
+# HarborDrop
 
-# HarborDrop - Official macOS Download Manager Releases
+**HarborDrop by Vesslo** is a native macOS download manager.
 
-**Official product page**: [vesslo.top/harbordrop](https://vesslo.top/harbordrop)
+- HarborDrop official website: https://vesslo.top/harbordrop
+- HarborDrop documentation: https://vesslo.top/harbordrop/docs
+- HarborDrop latest download: https://github.com/hjm79/harbordrop-release/releases/latest
 
-This repository hosts HarborDrop release downloads. The official product page, pricing, documentation, and support are maintained on [vesslo.top/harbordrop](https://vesslo.top/harbordrop).
+HarborDrop is an IDM-style download manager for Mac. It supports segmented downloads, browser integration, resume support, file rules, and post-download automation for macOS users who need a reliable native download workflow.
 
-**A powerful download manager for macOS** — accelerate downloads, handle permitted non-DRM media workflows, and organize files automatically.
+This repository is the official GitHub release hub for HarborDrop downloads. For product details, screenshots, pricing, setup instructions, and support, visit the [HarborDrop official website](https://vesslo.top/harbordrop).
+
+<img width="128" height="128" alt="HarborDrop app icon" src="https://github.com/user-attachments/assets/b365684a-0357-4d51-be79-4e952b2fb19d" />
+
+[Download manager for Mac](https://vesslo.top/harbordrop) · [IDM alternative for Mac](https://vesslo.top/harbordrop) · [HarborDrop documentation](https://vesslo.top/harbordrop/docs)
 
 > **Requires**: macOS 14.0+
 
@@ -176,8 +182,9 @@ See [Releases](https://github.com/hjm79/harbordrop-release/releases) for the ful
 
 ## 📬 Feedback
 
-- **Official product page**: [vesslo.top/harbordrop](https://vesslo.top/harbordrop)
-- **Documentation**: [vesslo.top/harbordrop/docs](https://vesslo.top/harbordrop/docs)
+- **HarborDrop official website**: [vesslo.top/harbordrop](https://vesslo.top/harbordrop)
+- **HarborDrop documentation**: [vesslo.top/harbordrop/docs](https://vesslo.top/harbordrop/docs)
+- **HarborDrop latest download**: [GitHub Releases](https://github.com/hjm79/harbordrop-release/releases/latest)
 - **Pricing**: [vesslo.top/pricing](https://vesslo.top/pricing)
 - **Email**: me@vesslo.top
 ---
