@@ -14,6 +14,16 @@ This repository is the official GitHub release hub for HarborDrop downloads. For
 
 [Download manager for Mac](https://vesslo.top/harbordrop) · [IDM alternative for Mac](https://vesslo.top/harbordrop) · [HarborDrop documentation](https://vesslo.top/harbordrop/docs)
 
+## Official Product Preview
+
+<a href="https://vesslo.top/harbordrop">
+  <img width="900" alt="HarborDrop download manager for Mac with segmented download acceleration" src="https://vesslo.top/harbordrop/harbordrop-download-manager-for-mac.webp" />
+</a>
+
+<a href="https://vesslo.top/harbordrop">
+  <img width="900" alt="HarborDrop HLS m3u8 workflow for non-DRM downloadable streams on Mac" src="https://vesslo.top/harbordrop/harbordrop-hls-m3u8-workflow-mac.webp" />
+</a>
+
 > **Requires**: macOS 14.0+
 
 ---
